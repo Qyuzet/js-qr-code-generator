@@ -3,9 +3,9 @@
 ## Overview
 
 The **JS QR Code Generator** is a web application designed to generate QR codes from user-inputted text. This project showcases the use of JavaScript, HTML, and CSS, demonstrating key concepts such as API integration, DOM manipulation, and responsive design. This tool is practical for generating QR codes for URLs, text, and other data types.
-[TRY NOW!o](https://qyuzet.github.io/js-qr-code-generator/)
+[TRY NOW!](https://qyuzet.github.io/js-qr-code-generator/)
 
-
+![image](https://github.com/Qyuzet/js-qr-code-generator/assets/93258081/7d331f6e-1f52-460a-b4c6-71cd77f13f4b)
 
 ## Features
 
